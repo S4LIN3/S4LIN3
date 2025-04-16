@@ -2,4 +2,4 @@
 <h3 align="center">I got bored...</h3>
 
 
-- 🌱 I’m **Eagerly UpSkilling**
+- 🌱 I’m **Eagerly UpSkilling and Learning**
